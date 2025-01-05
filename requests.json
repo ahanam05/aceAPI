@@ -1,0 +1,26 @@
+[
+  {
+    "name": "first",
+    "method": "PUT",
+    "url": "editedurl",
+    "path": "/",
+    "headers": {},
+    "body": {}
+  },
+  {
+    "name": "second",
+    "method": "POST",
+    "url": "www.yahoo.com",
+    "path": "/path1",
+    "headers": {},
+    "body": {}
+  },
+  {
+    "name": "test1",
+    "method": "GET",
+    "url": "https://jsonplaceholder.typicode.com",
+    "path": "/posts/1",
+    "headers": {},
+    "body": {}
+  }
+]
